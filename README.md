@@ -1,6 +1,6 @@
 # Student Exam Score Prediction
 
-This project focuses on predicting student exam performance using behavioral, lifestyle, and psychological variables. The modeling approach is based on linear regression, with Lasso regularization playing a central role in feature selection and predictive accuracy.
+This project focuses on predicting student exam performance using academical and behavioral features. The modeling approach is based on linear regression, with Lasso regularization playing a central role in feature selection and predictive accuracy.
 
 ## Repository Structure
 
