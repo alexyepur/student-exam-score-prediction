@@ -3,12 +3,12 @@
 This project focuses on predicting student exam performance using behavioral, lifestyle, and psychological variables. The modeling approach is based on linear regression, with Lasso regularization playing a central role in feature selection and predictive accuracy.
 
 ## Repository Structure
-student-exam-score-prediction/
-├── student_habits_performance.csv # Input dataset (must be in the same folder as Project_Students_Score.ipynb)
-├── Project_Students_Score.ipynb # Jupyter notebook with full data science cycle
-├── requirements.txt # Required Python libraries
-├── Student_Performance_Project_Report.doc # Technical report summarizing project, modeling pipeline, results, and practical recommendations
-└── README.md # Project overview and usage instructions
+
+├── README.md # Project overview and usage instructions 
+├── Project_Students_Score.ipynb # Jupyter notebook with full data science cycle 
+├── Student_Performance_Project_Report.pdf # Technical report summarizing project, modeling pipeline, results, and practical recommendations
+├── requirements.txt # Required Python libraries 
+└── student_habits_performance.csv # Input dataset (must be in the same folder as Project_Students_Score.ipynb)
 
 ## Final Model Summary
 - **Model Used:** `Lasso(alpha=0.1, selection='cyclic', fit_intercept=True, max_iter=10000)`
