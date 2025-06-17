@@ -4,9 +4,10 @@ This project focuses on predicting student exam performance using behavioral, li
 
 ## Repository Structure
 student-exam-score-prediction/
-├── student_habits_performance.csv # Input dataset (must be in the same folder)
+├── student_habits_performance.csv # Input dataset (must be in the same folder as Project_Students_Score.ipynb)
 ├── Project_Students_Score.ipynb # Jupyter notebook with full data science cycle
 ├── requirements.txt # Required Python libraries
+├── Student_Performance_Project_Report.doc # Technical report summarizing project, modeling pipeline, results, and practical recommendations
 └── README.md # Project overview and usage instructions
 
 ## Final Model Summary
@@ -30,3 +31,19 @@ Clone the repo and install the required packages:
 git clone https://github.com/your-username/student-exam-score-prediction.git
 cd student-exam-score-prediction
 pip install -r requirements.txt
+```
+
+## Notebook Contents
+The Jupyter Notebook includes:
+- Introduction
+- Preparation
+- Data Overview
+- Data Cleaning and Preparation
+- Modeling
+- Finalization and Deployment
+
+## Deployment Potential
+
+The final model is ready for deployment in educational analytics systems.  
+It offers interpretable insights into which academical and behavioral factors have most influence on student performance.
+
