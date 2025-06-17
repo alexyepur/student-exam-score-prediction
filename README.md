@@ -41,6 +41,8 @@ The Jupyter Notebook includes:
 - Data Cleaning and Preparation
 - Modeling
 - Finalization and Deployment
+- Conclusion
+- Credits
 
 ## Deployment Potential
 
