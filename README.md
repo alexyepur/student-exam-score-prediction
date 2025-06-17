@@ -4,11 +4,11 @@ This project focuses on predicting student exam performance using behavioral, li
 
 ## Repository Structure
 
-├── README.md # Project overview and usage instructions 
-├── Project_Students_Score.ipynb # Jupyter notebook with full data science cycle 
-├── Student_Performance_Project_Report.pdf # Technical report summarizing project, modeling pipeline, results, and practical recommendations
-├── requirements.txt # Required Python libraries 
-└── student_habits_performance.csv # Input dataset (must be in the same folder as Project_Students_Score.ipynb)
+- README.md # Project overview and usage instructions 
+- Project_Students_Score.ipynb # Jupyter notebook with full data science cycle 
+- Student_Performance_Project_Report.pdf # Technical report summarizing project, modeling pipeline, results, and practical recommendations
+- requirements.txt # Required Python libraries 
+- student_habits_performance.csv # Input dataset (must be in the same folder as Project_Students_Score.ipynb)
 
 ## Final Model Summary
 - **Model Used:** `Lasso(alpha=0.1, selection='cyclic', fit_intercept=True, max_iter=10000)`
